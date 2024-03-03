@@ -1,0 +1,150 @@
+keyword,condition
+"I'm feeling really anxious today.",Anxiety
+"I had a great day at work.",Normal
+"I can't stop feeling sad lately.",Depression
+"Feeling overwhelmed with stress.",Stress
+"Everything seems fine.",Normal
+"I've been having trouble sleeping.",Insomnia
+"My heart races for no reason.",Anxiety
+"I feel hopeless and unmotivated.",Depression
+"Work pressure is getting to me.",Stress
+"Feeling on edge all the time.",Anxiety
+"I don't find joy in anything anymore.",Depression
+"Struggling with my appetite.",Eating Disorder
+"I'm avoiding social situations.",Social Anxiety
+"Constantly worried about the future.",Anxiety
+"Feeling guilty after eating.",Eating Disorder
+"Irritable and easily angered.",Anger Issues
+"Flashbacks from a traumatic event.",PTSD
+"Hearing voices that others don't.",Schizophrenia
+"Difficulty concentrating and forgetful.",ADHD
+"Engaging in risky behaviors.",Impulse Control Disorder
+"Experiencing hallucinations.",Schizophrenia
+"Isolating myself from friends and family.",Social Withdrawal
+"Extreme fear of gaining weight.",Anorexia Nervosa
+"Feeling excessively tired and low energy.",Chronic Fatigue
+"Experiencing mood swings.",Bipolar Disorder
+"Compulsive handwashing and checking.",Obsessive-Compulsive Disorder
+"Trouble making decisions.",Indecisiveness
+"Feeling detached from reality.",Depersonalization
+"Experiencing intense fear of specific objects.",Phobia
+"Engaging in self-harm behaviors.",Self-Harm
+"Extreme fear of being judged by others.",Social Anxiety
+"Difficulty falling asleep and staying asleep.",Insomnia
+"Feeling like a failure.",Low Self-Esteem
+"Experiencing panic attacks.",Panic Disorder
+"Engaging in binge-eating episodes.",Binge Eating Disorder
+"Constantly seeking reassurance.",Anxiety
+"Feeling on top of the world.",Mania
+"I'm anxious today.",Anxiety
+"I had a fantastic day at work.",Normal
+"I'm struggling with sadness.",Depression
+"Feeling stressed out.",Stress
+"Everything is going well.",Normal
+"I can't sleep well.",Insomnia
+"My heart is racing without any reason.",Anxiety
+"I feel like I've lost motivation.",Depression
+"Work stress is overwhelming.",Stress
+"I'm constantly on edge.",Anxiety
+"I've lost interest in everything.",Depression
+"Having issues with my appetite.",Eating Disorder
+"Avoiding social situations.",Social Anxiety
+"Worried about the future all the time.",Anxiety
+"Feel guilty after eating.",Eating Disorder
+"I'm easily irritable and angered.",Anger Issues
+"Experiencing flashbacks from a traumatic event.",PTSD
+"Hearing things that others don't hear.",Schizophrenia
+"Trouble concentrating and forgetful.",ADHD
+"Engaging in risky behaviors.",Impulse Control Disorder
+"Seeing things that are not there.",Schizophrenia
+"Isolating from friends and family.",Social Withdrawal
+"Fear of gaining weight is extreme.",Anorexia Nervosa
+"Experiencing extreme fatigue.",Chronic Fatigue
+"Mood swings are frequent.",Bipolar Disorder
+"Compulsively washing hands and checking things.",Obsessive-Compulsive Disorder
+"Difficulty in making decisions.",Indecisiveness
+"Feeling detached from reality.",Depersonalization
+"Fearful of specific objects intensely.",Phobia
+"Engaging in self-harm.",Self-Harm
+"Extreme fear of judgment from others.",Social Anxiety
+"Struggling with sleep.",Insomnia
+"Feeling like a failure in everything.",Low Self-Esteem
+"Experiencing panic attack episodes.",Panic Disorder
+"Engaging in episodes of binge-eating.",Binge Eating Disorder
+"Seeking reassurance constantly.",Anxiety
+"Feeling on cloud nine.",Mania
+entry_text,mental_health_condition
+"I'm feeling incredibly anxious today.",Anxiety
+"I had an amazing day at work.",Normal
+"I'm struggling with persistent sadness.",Depression
+"Feeling the weight of stress on me.",Stress
+"Everything appears to be in order.",Normal
+"I've been having difficulty sleeping at night.",Insomnia
+"My heart is racing for no apparent reason.",Anxiety
+"I feel a sense of hopelessness and lack of motivation.",Depression
+"The pressure at work is really getting to me.",Stress
+"I find myself on edge all the time.",Anxiety
+"I've lost the ability to find joy in anything.",Depression
+"Dealing with challenges related to my appetite.",Eating Disorder
+"I'm avoiding social situations and gatherings.",Social Anxiety
+"Constantly haunted by worries about the future.",Anxiety
+"Experiencing guilt after eating.",Eating Disorder
+"Irritability and anger easily take over.",Anger Issues
+"Recurrent flashbacks from a traumatic event.",PTSD
+"Hearing voices that others can't.",Schizophrenia
+"Difficulty focusing and frequent forgetfulness.",ADHD
+"Engaging in behaviors with potential risks.",Impulse Control Disorder
+"Experiencing vivid hallucinations.",Schizophrenia
+"Isolating myself from friends and family.",Social Withdrawal
+"Intense fear of gaining weight.",Anorexia Nervosa
+"Feeling excessively tired with low energy.",Chronic Fatigue
+"Mood swings are becoming a regular occurrence.",Bipolar Disorder
+"Compulsively engaging in handwashing and checking.",Obsessive-Compulsive Disorder
+"Struggling with decision-making.",Indecisiveness
+"Feeling detached from reality.",Depersonalization
+"Intense fear of specific objects or situations.",Phobia
+"Engaging in self-harm behaviors.",Self-Harm
+"Extreme fear of judgment from others.",Social Anxiety
+"Trouble falling asleep and staying asleep.",Insomnia
+"Feeling like a failure in various aspects of life.",Low Self-Esteem
+"Experiencing episodes of panic attacks.",Panic Disorder
+"Engaging in episodes of binge-eating.",Binge Eating Disorder
+"Constantly seeking reassurance from others.",Anxiety
+"Feeling on top of the world with boundless energy.",Mania
+"I'm feeling quite anxious today.",Anxiety
+"I had a fantastic day at work.",Normal
+"I'm grappling with feelings of sadness.",Depression
+"Feeling stressed out and overwhelmed.",Stress
+"Everything is going smoothly.",Normal
+"I'm having trouble sleeping.",Insomnia
+"My heart is racing without any apparent cause.",Anxiety
+"I feel hopeless and lack motivation.",Depression
+"Work-related stress is taking its toll.",Stress
+"I'm always on edge.",Anxiety
+"I've lost interest in everything.",Depression
+"Struggling with my appetite.",Eating Disorder
+"Avoiding social situations.",Social Anxiety
+"Worrying incessantly about the future.",Anxiety
+"Feeling guilty after eating.",Eating Disorder
+"Irritable and easily angered.",Anger Issues
+"Recurrent flashbacks from a traumatic event.",PTSD
+"Hearing things that others don't hear.",Schizophrenia
+"Difficulty concentrating and forgetfulness.",ADHD
+"Engaging in risky behaviors.",Impulse Control Disorder
+"Experiencing hallucinations.",Schizophrenia
+"Isolating from friends and family.",Social Withdrawal
+"Extreme fear of gaining weight.",Anorexia Nervosa
+"Feeling excessively tired and low energy.",Chronic Fatigue
+"Experiencing mood swings.",Bipolar Disorder
+"Compulsive handwashing and checking.",Obsessive-Compulsive Disorder
+"Trouble making decisions.",Indecisiveness
+"Feeling detached from reality.",Depersonalization
+"Intense fear of specific objects or situations.",Phobia
+"Engaging in self-harm behaviors.",Self-Harm
+"Extreme fear of being judged by others.",Social Anxiety
+"Difficulty falling asleep and staying asleep.",Insomnia
+"Feeling like a failure in various aspects of life.",Low Self-Esteem
+"Experiencing panic attacks.",Panic Disorder
+"Engaging in episodes of binge-eating.",Binge Eating Disorder
+"Constantly seeking reassurance.",Anxiety
+"Feeling on top of the world.",Mania
